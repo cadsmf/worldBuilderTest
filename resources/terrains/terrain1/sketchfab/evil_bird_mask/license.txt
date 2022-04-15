@@ -1,0 +1,11 @@
+Model Information:
+* title:	Evil Bird Mask
+* source:	https://sketchfab.com/3d-models/evil-bird-mask-0095eb405ac843c4a41ce70ac9a243e8
+* author:	Maria Kokova (https://sketchfab.com/tophana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Evil Bird Mask" (https://sketchfab.com/3d-models/evil-bird-mask-0095eb405ac843c4a41ce70ac9a243e8) by Maria Kokova (https://sketchfab.com/tophana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,27 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[application]
+
+config/name="glbExporter"
+run/main_scene="res://world/Main.tscn"
+config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/CustomDFM/plugin.cfg", "res://addons/sketchfab/plugin.cfg", "res://addons/zylann.scatter/plugin.cfg" )
+
+[global]
+
+view=false
+
+[physics]
+
+common/enable_pause_aware_picking=true
